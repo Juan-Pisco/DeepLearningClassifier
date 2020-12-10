@@ -7,7 +7,7 @@ notebook at the `Image_Classifier_Proyect.ipynb`.
 # Packages Needed
 
 For downloading and testing out this proyect, you'll have to make sure you've installed the following python packages:
-*Pytorch (at least 1.6.0)
+* Pytorch (at least 1.6.0)
 * argparse
 * json
 * PIL
