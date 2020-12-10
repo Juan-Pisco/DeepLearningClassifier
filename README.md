@@ -37,6 +37,8 @@ For downloading and testing out this proyect, you'll have to make sure you've in
     * LearningRate: 0.003
     * Hidden-units: 1024
     * Dropout: 0.2
+    * Input units: 2048
+    * Output units: 102
     
     * Validation accuracy result: 83.8%
     * Validation loss result: 0.574
@@ -51,13 +53,15 @@ For downloading and testing out this proyect, you'll have to make sure you've in
     * LearningRate: 0.003
     * Hidden-units: 1024
     * Dropout: 0.2
+    * Input units: 25088
+    * Output units: 102
     
-    * Validation accuracy result: 83.8%
-    * Validation loss result: 0.574
-    * Trainning loss result: 1.157
+    * Validation accuracy result: 80.6%
+    * Validation loss result: 0.784
+    * Trainning loss result: 1.786
     
-    * Testing accuracy result: 84.1%
-    * Testing loss result: 0.586
+    * Testing accuracy result: 74.4%
+    * Testing loss result: 0.964
     
   * Training using alexnet:
   
@@ -65,13 +69,15 @@ For downloading and testing out this proyect, you'll have to make sure you've in
     * LearningRate: 0.003
     * Hidden-units: 1024
     * Dropout: 0.2
+    * Input units: 9216
+    * Output units: 102
     
-    * Validation accuracy result: 83.8%
-    * Validation loss result: 0.574
-    * Trainning loss result: 1.157
+    * Validation accuracy result: 82.4%
+    * Validation loss result: 0.653
+    * Trainning loss result: 1.365
     
-    * Testing accuracy result: 84.1%
-    * Testing loss result: 0.586
+    * Testing accuracy result: 82.1%
+    * Testing loss result: 0.703
 
 # Architectures Modifications and Criterion Explanation:
 
