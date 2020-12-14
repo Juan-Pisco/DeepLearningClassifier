@@ -14,7 +14,7 @@ For downloading and testing out this proyect, you'll have to make sure you've in
 * matplotlib
 * seaborn
 
-# Usage examples
+# Getting Started
 
 * Open the `train.py` file in the terminal using the following sintax: (Just 1 line of code)
 `python train.py --save_dir (path to the checkpoints.pth) --arch (choose the CNN model you want to use between "resnet)
